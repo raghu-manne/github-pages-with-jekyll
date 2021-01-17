@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date:17-01-2021
+date: 2021-01-17
 ---
 
 ok i just edited this to check
